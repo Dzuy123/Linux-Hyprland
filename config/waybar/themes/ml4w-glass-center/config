@@ -17,12 +17,13 @@
         "clock",
         "wlr/taskbar",
         //"group/quicklinks",
-        //"custom/nowplaying",        
+        "custom/nowplaying",        
         "custom/empty"
     ],
     // Modules Center
     "modules-center": [
         "hyprland/workspaces",
+        "custom/camera",
         "custom/empty"
     ],
     // Modules Right    
@@ -41,3 +42,4 @@
         "custom/ml4w-welcome"
     ]
 }
+
